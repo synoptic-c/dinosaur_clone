@@ -1,6 +1,6 @@
 # 操作
 
-Space | 跳
+Space | 跳跃
 
 ESC   | 菜单
 
