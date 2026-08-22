@@ -1,6 +1,4 @@
-# 库
-
-## 版本
+# 运行环境
 
 CMake      | 3.15
 
@@ -8,13 +6,7 @@ C++        | 20
 
 OpenGL     | 3.3
 
-GLFW       | 建议最新
-
-GLM        | 建议最新
-
-Dear ImGui | 建议最新
-
-stb_image  | 建议最新
+# 库
 
 ## 路径
 
@@ -86,7 +78,6 @@ resources/textures/dinosaur/walk1.png
 resources/textures/obstacles/cactus0.png
 
 resources/textures/obstacles/cactus1.png
-
 resources/textures/obstacles/cactus2.png
 
 
