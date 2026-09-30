@@ -10,8 +10,6 @@ OpenGL | 3.3
 
 ## 路径
 
-**自行配置**
-
 libraries/include/glad/glad.h
 
 libraries/include/GLFW | 默认
@@ -65,8 +63,6 @@ libraries/src/imgui/imgui_widgets.cpp
 # 贴图
 
 ## 路径
-
-**自行添加**
 
 resources/textures/dinosaur/idle_and_jump.png
 
