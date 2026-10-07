@@ -63,7 +63,7 @@ resources/textures/dinosaur/walk1.png
 resources/textures/obstacles/cactus0.png
 
 resources/textures/obstacles/cactus1.png
-resources/textures/obstacles/cactus2.png
 
+resources/textures/obstacles/cactus2.png
 
 resources/textures/scene/ground.png
