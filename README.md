@@ -1,4 +1,3 @@
-
 # 库
 
 ## 路径
@@ -31,13 +30,11 @@ libraries/include/KHR/khrplatform.h
                   
 libraries/include/stb/stb_image.h
 
-
 libraries/lib/windows/对应平台
 
 libraries/lib/macos/对应平台
 
 libraries/lib/linux/对应平台
-
 
 libraries/src/glad/glad.c
 
@@ -63,11 +60,9 @@ resources/textures/dinosaur/walk0.png
 
 resources/textures/dinosaur/walk1.png
 
-
 resources/textures/obstacles/cactus0.png
 
 resources/textures/obstacles/cactus1.png
-
 resources/textures/obstacles/cactus2.png
 
 
